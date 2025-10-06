@@ -8,6 +8,7 @@
 
 .carte {
   aspect-ratio: 5 / 7;
+  display: grid;
 }
 
 .danger {
@@ -18,3 +19,4 @@
 
 transform: scaleY(-1);
 }
+
