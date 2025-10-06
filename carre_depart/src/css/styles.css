@@ -9,3 +9,12 @@
 .carte {
   aspect-ratio: 5 / 7;
 }
+
+.danger {
+  color: (255, 0, 0);
+}
+
+.flip {
+
+transform: scaleY(-1);
+}
